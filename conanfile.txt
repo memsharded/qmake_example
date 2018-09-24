@@ -1,5 +1,5 @@
 [requires]
-Hello/0.1@diego/testing
+Hello/0.1@memsharded/testing
 
 [generators]
 qmake
