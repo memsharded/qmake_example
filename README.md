@@ -8,7 +8,7 @@ Then:
 ```bash
 $ git clone https://github.com/memsharded/qmake_example
 $ cd qmake_example
-$ conan install
+$ conan install .
 $ qmake
 $ make
 $ ./helloworld
